@@ -1,0 +1,9 @@
+{
+    "name": "BarrowKingsArsenal",
+    "version_number": "1.2.1",
+    "website_url": "",
+    "description": "Barrow-King's Oath (was Barrow-King's Arsenal): nine swamp-tier weapons and a shield with custom models and spirit damage.",
+    "dependencies": [
+        "ValheimModding-Jotunn-2.30.2"
+    ]
+}
